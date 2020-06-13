@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "mediGuardExists",
+        "transactionLabel": "A test mediGuardExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMediGuard",
+        "transactionLabel": "A test createMediGuard transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMediGuard",
+        "transactionLabel": "A test readMediGuard transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMediGuard",
+        "transactionLabel": "A test updateMediGuard transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMediGuard",
+        "transactionLabel": "A test deleteMediGuard transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
